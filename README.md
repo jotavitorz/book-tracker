@@ -61,7 +61,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ### Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/book-tracker.git
+git clone https://github.com/jotavitorz/book-tracker.git
 ```
 
 ### Instalando dependências
@@ -86,6 +86,3 @@ Projeto desenvolvido com foco em **aprendizado, prática e portfólio**.
 Não utiliza backend — os dados são armazenados localmente. Ideal para demonstrar domínio de **estado, lógica e refatoração em React**.
 
 <p align="center">Feito por <b>João Vitor</b> 🖖</p>
-
-
-
